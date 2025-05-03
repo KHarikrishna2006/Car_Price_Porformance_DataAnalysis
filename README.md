@@ -41,8 +41,8 @@ This project will teach you:
 ## ⚙️ Tech Stack
 
 - 🐍 Python
-- 📓 Jupyter Notebook (or .py script)
-- 📊 Pandas, NumPy, Scikit-learn
+- 📓 Jupyter Notebook (or .py script) or google colab
+- 📊 Pandas
 
 ---
 
@@ -50,8 +50,8 @@ This project will teach you:
 
 Here's what you'll find in this repo:
 
-📁 `car_analysis.ipynb` or `car_analysis.py` – Complete implementation  
-📄 `processed_cars.csv` – Final dataset with scaled features and performance index  
+📁 `DA_Exam_006_HARIKRISHNA_23AG1A6691.ipynb` or `DA_Exam_006_HARIKRISHNA_23AG1A6691.py` – Complete implementation  
+📄 `final_data_HariKrishna_691.csv` – Final dataset with scaled features and performance index  
 📊 Final table including:
 - Brand
 - Price
